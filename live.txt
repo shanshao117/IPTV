@@ -12,7 +12,7 @@
 
 凤凰资讯,http://113.117.74.52:8081/hls/36/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.24:8081/hls/36/index.m3u8
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
