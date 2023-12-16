@@ -3,58 +3,19 @@
 
 ⛵  港•澳•台,#genre#
 
-香港 凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-凤凰资讯台,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-凤凰资讯台,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
-凤凰资讯台,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-凤凰资讯台,http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix
-凤凰资讯HD,http://113.117.74.18:8081/hls/36/index.m3u8
-凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-凤凰资讯,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
-凤凰资讯,http://gxdl-lhs.8866.org:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
-凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-凤凰资讯,http://113.117.74.12:8081/hls/36/index.m3u8
-凤凰资讯,http://anren.live/HK/AQtQ.m3u8
-凤凰卫视,http://113.117.74.28:8081/hls/37/index.m3u8
-鳳凰資訊台,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
-鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-鳳凰資訊,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-鳳凰資訊,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?$960x540
-鳳凰資訊,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-鳳凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-鳳凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?WithCaption
-鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-鳳凰衛視中文,http://210.210.155.37/qwr9ew/s/s21/index.m3u8
-凤凰中文台,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
-凤凰中文台,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰中文HD,http://113.117.74.17:8081/hls/37/index.m3u8
+凤凰中文,http://113.117.74.52:8081/hls/37/index.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://113.117.74.24:8081/hls/37/index.m3u8
+凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
-凤凰中文,http://pi.0472.org/tv/cbn.php?id=xfjcHD
-凤凰中文,http://113.117.74.12:8081/hls/37/index.m3u8
-凤凰中文,http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370eb7887844fh.flv
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰中文,https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
-凤凰中文,http://anren.live/HK/AQtR.m3u8
-凤凰中文,http://anren.live/HK/AQtU.m3u8
-Phoenix InfoNews Channel (鳳凰衛視資訊) (576p) [Geo-blocked],https://moviesphere-roku.amagi.tv/playlist.m3u8
-Phoenix InfoNews Channel (鳳凰衛視資訊) (576p) [Geo-blocked],https://lnc-ksaz.tubi.video/index.m3u8
-Phoenix InfoNews Channel (鳳凰衛視資訊) (576p) [Geo-blocked],http://111.17.214.4:1935/live/xtys/playlist.m3u8
-Phoenix InfoNews Channel (鳳凰衛視資訊) (576p),http://210.210.155.35/qwr9ew/s/s21/index.m3u8
-Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],http://210.210.155.35/uq2663/h/h157/index2.m3u8
-Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],https://jpts.sinovision.net/livestream.m3u8
-Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-Phoenix Chinese Channel (鳳凰衛視中文) (576p) [Geo-blocked],https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
 
+凤凰资讯,http://113.117.74.52:8081/hls/36/index.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+凤凰资讯,http://113.117.74.24:8081/hls/36/index.m3u8
+凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 
 凤凰香港,http://113.117.74.52:8081/hls/38/index.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
